@@ -92,11 +92,15 @@ namespace SDD2.models
                 this.Secciones.Add(new Seccion { Nombre = letra.ToString() });
                 this.SaveChanges();
             }
-
+            
+            this.SaveChanges();
             this.Turnos.Add(new Turno { Nombre = "DIURNO (MAÑANA)" });
             this.SaveChanges();
             this.Turnos.Add(new Turno { Nombre = "TARDE" });
             this.SaveChanges();
+            this.Turnos.Add(new Turno { Id=0, Nombre = "AMBOS" });
+            this.SaveChanges();
+
         }
 
         public int create<T>(T objeto) where T : class

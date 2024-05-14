@@ -13,9 +13,15 @@ namespace SDD2.models
         public string RutaArchivo { get; set; }
         public string Observaciones { get; set; }
         public int IdAnoEscolar { get; set; }
+
+        public int IdAnoEscolarFin { get; set; }
         public int? IdNivel { get; set; }
         public int? IdGrado { get; set; }
+
+        public int? IdGradoFin { get; set; }
         public int? IdSeccion { get; set; }
+
+        public int? IdSeccionFin { get; set; }
         public int? IdTurno { get; set; }
         public string Estado { get; set; }
     }

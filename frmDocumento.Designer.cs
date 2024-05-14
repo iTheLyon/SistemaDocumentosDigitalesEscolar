@@ -55,6 +55,12 @@ namespace SDD2
             this.txtObservaciones = new System.Windows.Forms.TextBox();
             this.btnRotar = new System.Windows.Forms.Button();
             this.pdfViewer2 = new PdfiumViewer.PdfViewer();
+            this.cboAnosFin = new System.Windows.Forms.ComboBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.cboGradosFin = new System.Windows.Forms.ComboBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.cboSeccionesFin = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // label1
@@ -83,9 +89,9 @@ namespace SDD2
             this.label3.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(25, 123);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(44, 22);
+            this.label3.Size = new System.Drawing.Size(66, 22);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Año";
+            this.label3.Text = "Año(s)";
             // 
             // label5
             // 
@@ -143,9 +149,9 @@ namespace SDD2
             this.label10.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.Location = new System.Drawing.Point(25, 198);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(63, 22);
+            this.label10.Size = new System.Drawing.Size(85, 22);
             this.label10.TabIndex = 9;
-            this.label10.Text = "Grado";
+            this.label10.Text = "Grado(s)";
             // 
             // btnAdjuntar
             // 
@@ -272,7 +278,7 @@ namespace SDD2
             "2022"});
             this.cboAnos.Location = new System.Drawing.Point(108, 121);
             this.cboAnos.Name = "cboAnos";
-            this.cboAnos.Size = new System.Drawing.Size(261, 26);
+            this.cboAnos.Size = new System.Drawing.Size(121, 26);
             this.cboAnos.TabIndex = 17;
             this.cboAnos.Text = "1979";
             // 
@@ -313,7 +319,7 @@ namespace SDD2
             "5° TO"});
             this.cboGrados.Location = new System.Drawing.Point(108, 198);
             this.cboGrados.Name = "cboGrados";
-            this.cboGrados.Size = new System.Drawing.Size(261, 26);
+            this.cboGrados.Size = new System.Drawing.Size(121, 26);
             this.cboGrados.TabIndex = 20;
             this.cboGrados.Text = "1° ERO";
             // 
@@ -355,7 +361,7 @@ namespace SDD2
             "Z"});
             this.cboSecciones.Location = new System.Drawing.Point(109, 237);
             this.cboSecciones.Name = "cboSecciones";
-            this.cboSecciones.Size = new System.Drawing.Size(261, 26);
+            this.cboSecciones.Size = new System.Drawing.Size(120, 26);
             this.cboSecciones.TabIndex = 21;
             this.cboSecciones.Text = "A";
             // 
@@ -401,11 +407,162 @@ namespace SDD2
             this.pdfViewer2.Size = new System.Drawing.Size(609, 452);
             this.pdfViewer2.TabIndex = 25;
             // 
+            // cboAnosFin
+            // 
+            this.cboAnosFin.DropDownHeight = 100;
+            this.cboAnosFin.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cboAnosFin.FormattingEnabled = true;
+            this.cboAnosFin.IntegralHeight = false;
+            this.cboAnosFin.Items.AddRange(new object[] {
+            "1979",
+            "1980",
+            "1981",
+            "1982",
+            "1983",
+            "1984",
+            "1985",
+            "1986",
+            "1987",
+            "1988",
+            "1989",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022"});
+            this.cboAnosFin.Location = new System.Drawing.Point(250, 121);
+            this.cboAnosFin.Name = "cboAnosFin";
+            this.cboAnosFin.Size = new System.Drawing.Size(120, 26);
+            this.cboAnosFin.TabIndex = 26;
+            this.cboAnosFin.Text = "1979";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(235, 123);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(16, 22);
+            this.label11.TabIndex = 27;
+            this.label11.Text = "-";
+            // 
+            // cboGradosFin
+            // 
+            this.cboGradosFin.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cboGradosFin.FormattingEnabled = true;
+            this.cboGradosFin.Items.AddRange(new object[] {
+            "1° ERO",
+            "2° DO",
+            "3° ERO",
+            "4° TO",
+            "5° TO"});
+            this.cboGradosFin.Location = new System.Drawing.Point(250, 198);
+            this.cboGradosFin.Name = "cboGradosFin";
+            this.cboGradosFin.Size = new System.Drawing.Size(121, 26);
+            this.cboGradosFin.TabIndex = 28;
+            this.cboGradosFin.Text = "1° ERO";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(235, 198);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(16, 22);
+            this.label12.TabIndex = 29;
+            this.label12.Text = "-";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.Location = new System.Drawing.Point(235, 241);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(16, 22);
+            this.label13.TabIndex = 30;
+            this.label13.Text = "-";
+            // 
+            // cboSeccionesFin
+            // 
+            this.cboSeccionesFin.DropDownHeight = 85;
+            this.cboSeccionesFin.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cboSeccionesFin.FormattingEnabled = true;
+            this.cboSeccionesFin.IntegralHeight = false;
+            this.cboSeccionesFin.Items.AddRange(new object[] {
+            "A",
+            "B",
+            "C",
+            "CH",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "LL",
+            "M",
+            "N",
+            "Ñ",
+            "O",
+            "P",
+            "Q",
+            "R",
+            "S",
+            "T",
+            "U",
+            "V",
+            "W",
+            "X",
+            "Y",
+            "Z"});
+            this.cboSeccionesFin.Location = new System.Drawing.Point(251, 236);
+            this.cboSeccionesFin.Name = "cboSeccionesFin";
+            this.cboSeccionesFin.Size = new System.Drawing.Size(120, 26);
+            this.cboSeccionesFin.TabIndex = 31;
+            this.cboSeccionesFin.Text = "A";
+            // 
             // frmDocumento
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1020, 524);
+            this.Controls.Add(this.cboSeccionesFin);
+            this.Controls.Add(this.label13);
+            this.Controls.Add(this.label12);
+            this.Controls.Add(this.cboGradosFin);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.cboAnosFin);
             this.Controls.Add(this.pdfViewer2);
             this.Controls.Add(this.btnRotar);
             this.Controls.Add(this.txtObservaciones);
@@ -464,5 +621,11 @@ namespace SDD2
         private TextBox txtObservaciones;
         private Button btnRotar;
         private PdfiumViewer.PdfViewer pdfViewer2;
+        private ComboBox cboAnosFin;
+        private Label label11;
+        private ComboBox cboGradosFin;
+        private Label label12;
+        private Label label13;
+        private ComboBox cboSeccionesFin;
     }
 }

@@ -85,25 +85,31 @@ namespace SDD2
 
             DocumentoService documentoService = new DocumentoService();
 
-            int anoInicial = ((AnoEscolar)cboAnoInicial.SelectedItem).Ano;
-            int anoFinal = ((AnoEscolar)cboAnoFinal.SelectedItem).Ano; 
-            int idtipo = (int)cboTiposDocumentos.SelectedValue;
-            string titulo = txtTitulo.Text;
-            string obs = txtObservacion.Text;
-            int idnivel = (int)cboNiveles.SelectedValue;
-            int idgrado = (int)cboGrados.SelectedValue;
-            int idseccion = (int)cboSecciones.SelectedValue;
-            int idturno = (int)cboTurnos.SelectedValue;
+            if (cboAnoInicial.SelectedItem == null)
+                MessageBox.Show(this, "Seleccione el año correctamente", Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
+            else
+            {
 
-            List<ResultadoDocumentoDTO> documentos;
-            documentos = documentoService.search(anoInicial, anoFinal, idtipo,titulo,
-                obs,idnivel,idgrado,idseccion, idturno);
+                int anoInicial = ((AnoEscolar)cboAnoInicial.SelectedItem).Ano;
+                int anoFinal = ((AnoEscolar)cboAnoFinal.SelectedItem).Ano;
+                int idtipo = (int)cboTiposDocumentos.SelectedValue;
+                string titulo = txtTitulo.Text;
+                string obs = txtObservacion.Text;
+                int idnivel = (int)cboNiveles.SelectedValue;
+                int idgrado = (int)cboGrados.SelectedValue;
+                int idseccion = (int)cboSecciones.SelectedValue;
+                int idturno = (int)cboTurnos.SelectedValue;
 
-            dgvDocumentos.Columns.Clear();
-            dgvDocumentos.DataSource = documentos;
+                List<ResultadoDocumentoDTO> documentos;
+                documentos = documentoService.search(anoInicial, anoFinal, idtipo, titulo,
+                    obs, idnivel, idgrado, idseccion, idturno);
 
-            dgvDocumentos.Columns["RutaArchivo"].Visible = false;
-            dgvDocumentos.Columns["Id"].Visible = false;
+                dgvDocumentos.Columns.Clear();
+                dgvDocumentos.DataSource = documentos;
+
+                dgvDocumentos.Columns["RutaArchivo"].Visible = false;
+                dgvDocumentos.Columns["Id"].Visible = false;
+            }
         }
 
         private void dataGridView1_RowEnter(object sender, DataGridViewCellEventArgs e)

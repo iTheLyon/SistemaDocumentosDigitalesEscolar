@@ -75,6 +75,8 @@ namespace SDD2.services
                            on d.IdTipoDocumento equals td.Id                           
                            join a in this.AnosEscolar
                            on d.IdAnoEscolar equals a.Id
+                           join af in this.AnosEscolar
+                           on d.IdAnoEscolarFin equals af.Id
                            join n in this.Niveles
                            on d.IdNivel equals n.Id
                            join g in this.Grados
@@ -83,13 +85,13 @@ namespace SDD2.services
                            on d.IdSeccion equals s.Id
                            join t in this.Turnos
                            on d.IdTurno equals t.Id
-                           where anoInicio <= a.Ano && a.Ano <=anoFin
+                           where (anoInicio <= a.Ano && a.Ano <=anoFin && anoInicio<= af.Ano && af.Ano <= anoFin)
                            && (d.IdTipoDocumento==idTipoDocumento || idTipoDocumento ==0)
                            && d.Titulo.Contains(titulo)
                            && d.Observaciones.Contains(observaciones)
                            && (d.IdNivel == idNivel || idNivel == 0)
-                           && (d.IdGrado == idGrado || idGrado == 0)
-                           && (d.IdSeccion == idSeccion || idSeccion == 0)
+                           && ((d.IdGrado == idGrado && idGrado <= d.IdGradoFin) || idGrado == 0)
+                           && ((d.IdSeccion <= idSeccion && idSeccion <=d.IdSeccionFin) || idSeccion == 0)
                            && (d.IdTurno == idTurno || idTurno == 0)
                            select new ResultadoDocumentoDTO
                            {

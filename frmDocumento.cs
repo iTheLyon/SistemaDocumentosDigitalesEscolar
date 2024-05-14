@@ -39,6 +39,12 @@ namespace SDD2
             cboAnos.DisplayMember = "Ano";
             cboAnos.ValueMember = "Id";
 
+            var anosfin = database.AnosEscolar.ToList();
+            cboAnosFin.Items.Clear();
+            cboAnosFin.DataSource = anosfin;
+            cboAnosFin.DisplayMember = "Ano";
+            cboAnosFin.ValueMember = "Id";
+
             var niveles = database.Niveles.ToList();
             cboNiveles.Items.Clear();
             cboNiveles.DataSource = niveles;
@@ -52,12 +58,23 @@ namespace SDD2
             cboGrados.DisplayMember = "Nombre";
             cboGrados.ValueMember = "Id";
 
+            var gradosfin = database.Grados.ToList();
+            cboGradosFin.Items.Clear();
+            cboGradosFin.DataSource = gradosfin;
+            cboGradosFin.DisplayMember = "Nombre";
+            cboGradosFin.ValueMember = "Id";
+
             var secciones = database.Secciones.ToList();
             cboSecciones.Items.Clear();
             cboSecciones.DataSource = secciones;
             cboSecciones.DisplayMember = "Nombre";
             cboSecciones.ValueMember = "Id";
 
+            var seccionesfin = database.Secciones.ToList();
+            cboSeccionesFin.Items.Clear();
+            cboSeccionesFin.DataSource = seccionesfin;
+            cboSeccionesFin.DisplayMember = "Nombre";
+            cboSeccionesFin.ValueMember = "Id";
 
             var turnos = database.Turnos.ToList();
             cboTurnos.Items.Clear();
@@ -110,9 +127,12 @@ namespace SDD2
                 IdTipoDocumento = (int)cboTiposDocumentos.SelectedValue,
                 Titulo = txtTitulo.Text,
                 IdAnoEscolar = (int)cboAnos.SelectedValue,
+                IdAnoEscolarFin = (int)cboAnosFin.SelectedValue,
                 IdNivel = (int)cboNiveles.SelectedValue,
                 IdGrado = (int)cboGrados.SelectedValue,
+                IdGradoFin = (int)cboGradosFin.SelectedValue,
                 IdSeccion = (int)cboSecciones.SelectedValue,
+                IdSeccionFin = (int)cboSeccionesFin.SelectedValue,
                 IdTurno =(int)cboTurnos.SelectedValue,
                 RutaArchivo = lblNombreArchivo.Text,
                 Observaciones = txtObservaciones.Text,

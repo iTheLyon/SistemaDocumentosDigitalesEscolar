@@ -23,7 +23,7 @@ namespace SDD2.models
         public DbSet<Nivel> Niveles { get; set; }
         public DbSet<Seccion> Secciones { get; set; }
         public DbSet<Turno> Turnos { get; set; }
-        public DataBase() :base("SDDConexion")
+        public DataBase() :base("name=LocalDbConnection") //SDDConexion
         {
             
         }

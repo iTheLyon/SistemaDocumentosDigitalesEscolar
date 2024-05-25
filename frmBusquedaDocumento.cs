@@ -85,12 +85,46 @@ namespace SDD2
 
             DocumentoService documentoService = new DocumentoService();
 
-            if (cboAnoInicial.SelectedItem == null)
-                MessageBox.Show(this, "Seleccione el año correctamente", Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
-            else
-            {
 
-                int anoInicial = ((AnoEscolar)cboAnoInicial.SelectedItem).Ano;
+            if (cboTiposDocumentos.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar el tipo d documento correctamente", Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (cboAnoInicial.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar el año inicial correctamente", Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (cboAnoFinal.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar el año final correctamente", Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (cboGrados.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar el grado correctamente", Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+
+            if (cboSecciones.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar la seccion correctamente", Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+
+            if (cboTurnos.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar el turno correctamente", Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            int anoInicial = ((AnoEscolar)cboAnoInicial.SelectedItem).Ano;
                 int anoFinal = ((AnoEscolar)cboAnoFinal.SelectedItem).Ano;
                 int idtipo = (int)cboTiposDocumentos.SelectedValue;
                 string titulo = txtTitulo.Text;
@@ -109,7 +143,7 @@ namespace SDD2
 
                 dgvDocumentos.Columns["RutaArchivo"].Visible = false;
                 dgvDocumentos.Columns["Id"].Visible = false;
-            }
+           
         }
 
         private void dataGridView1_RowEnter(object sender, DataGridViewCellEventArgs e)

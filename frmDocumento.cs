@@ -121,6 +121,61 @@ namespace SDD2
 
         private void btnGrabar_Click(object sender, EventArgs e)
         {
+            if(cboTiposDocumentos.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar correctamente el tipo de documento","Registro de Documento", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (cboAnos.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar correctamente el año inicial", "Registro de Documento", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (cboAnosFin.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar correctamente el año final","Registro de Documento" , MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (cboNiveles.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar correctamente el nivel", "Registro de Documento" , MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (cboGrados.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar correctamente el grado inicial","Registro de Documento", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+
+            if (cboGradosFin.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar correctamente el grado final", "Registro de Documento", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (cboSecciones.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar correctamente el seccion inicial","Registro de Documento", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (cboSeccionesFin.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar correctamente el seccion final", "Registro de Documento", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+
+            if (cboTurnos.SelectedItem == null)
+            {
+                MessageBox.Show(this, "Vuelve a seleccionar correctamente el turno", "Registro de Documento", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
 
             DocumentoService documento = new DocumentoService(new Documento
             {

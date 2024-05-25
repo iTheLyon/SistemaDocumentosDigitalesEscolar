@@ -90,7 +90,7 @@ namespace SDD2.services
                            && d.Titulo.Contains(titulo)
                            && d.Observaciones.Contains(observaciones)
                            && (d.IdNivel == idNivel || idNivel == 0)
-                           && ((d.IdGrado == idGrado && idGrado <= d.IdGradoFin) || idGrado == 0)
+                           && ((d.IdGrado <= idGrado && idGrado <= d.IdGradoFin) || idGrado == 0)
                            && ((d.IdSeccion <= idSeccion && idSeccion <=d.IdSeccionFin) || idSeccion == 0)
                            && (d.IdTurno == idTurno || idTurno == 0)
                            select new ResultadoDocumentoDTO

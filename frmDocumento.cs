@@ -12,17 +12,54 @@ using PdfiumViewer;
 using System.Data.Entity;
 using SDD2.models;
 using SDD2.services;
+using SDD2.utils;
 
 namespace SDD2
 {
     public partial class frmDocumento : Form
     {
         private string filename;
+        private int? documentId;
+
         public frmDocumento()
         {
             InitializeComponent();
         }
+                public frmDocumento(int documentId) : this()
+                {
+                    this.documentId = documentId;
+                    if (documentId != 0)
+                    {
+                        CargarDatosDocumento(documentId);
+                        this.label4.Text = "Editar Documento Digital";
+                    }
+                }
+        private void CargarDatosDocumento(int documentId)
+        {
+            DocumentoService documentoService = new DocumentoService();
+            var documento = documentoService.ObtenerDocumentoPorId(documentId);
 
+            cboTiposDocumentos.SelectedValue = documento.IdTipoDocumento;
+            txtTitulo.Text = documento.Titulo;
+            cboAnos.SelectedValue = documento.IdAnoEscolar;
+            cboAnosFin.SelectedValue = documento.IdAnoEscolarFin;
+            cboNiveles.SelectedValue = documento.IdNivel;
+            cboGrados.SelectedValue = documento.IdGrado;
+            cboGradosFin.SelectedValue = documento.IdGradoFin;
+            cboSecciones.SelectedValue = documento.IdSeccion;
+            cboSeccionesFin.SelectedValue = documento.IdSeccionFin;
+            cboTurnos.SelectedValue = documento.IdTurno;
+            lblNombreArchivo.Text = documento.RutaArchivo;
+            txtObservaciones.Text = documento.Observaciones;
+
+            if (!string.IsNullOrEmpty(documento.RutaArchivo))
+            {
+                string pathfolder = Path.Combine("docs", documentId.ToString());
+                string ruta = Utils.getPath(pathfolder, documento.RutaArchivo);
+                pdfViewer2.Document?.Dispose();
+                pdfViewer2.Document = OpenDocument(ruta);
+            }
+        }
         private void frmDocumento_Load(object sender, EventArgs e)
         {
             DataBase database = new DataBase();
@@ -177,8 +214,9 @@ namespace SDD2
                 return;
             }
 
-            DocumentoService documento = new DocumentoService(new Documento
+            Documento documento = new Documento
             {
+                Id = this.documentId ?? 0,
                 IdTipoDocumento = (int)cboTiposDocumentos.SelectedValue,
                 Titulo = txtTitulo.Text,
                 IdAnoEscolar = (int)cboAnos.SelectedValue,
@@ -192,11 +230,12 @@ namespace SDD2
                 RutaArchivo = lblNombreArchivo.Text,
                 Observaciones = txtObservaciones.Text,
                 Estado = "1"
-            });
+            };
+            DocumentoService documentoService = new DocumentoService(documento);
+            documentoService.fileNamePDF = this.filename;
 
-            documento.fileNamePDF = this.filename;
-            string mensaje = documento.save();
-            if(string.IsNullOrEmpty(mensaje))
+            string mensaje = documentoService.save();
+            if (string.IsNullOrEmpty(mensaje))
             {
                 this.Close();
             }

@@ -40,5 +40,12 @@ namespace SDD2
             frmDocumento1.Show();
           
         }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            string pdf = "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\img\\MANUAL DE USUARIO SDD.pdf";
+            frmPdf frmPdf = new frmPdf(pdf);
+            frmPdf.Show();
+        }
     }
 }

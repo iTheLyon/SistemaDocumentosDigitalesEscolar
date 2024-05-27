@@ -19,6 +19,71 @@ namespace SDD2.services
             _documento = documento;
         }
 
+        public Documento ObtenerDocumentoPorId(int id)
+        {
+            return this.Documentos.FirstOrDefault(d => d.Id == id);
+        }
+
+        public string EditarOGuardar()
+        {
+            try
+            {
+                string mensajes = valid();
+                if (string.IsNullOrEmpty(mensajes))
+                {
+                    if (_documento.Id == 0)
+                    {
+                        // Crear un nuevo documento
+                        CrearDocumento();
+                    }
+                    else
+                    {
+                        // Actualizar un documento existente
+                        ActualizarDocumento();
+                    }
+                    return "";
+                }
+                else
+                {
+                    return mensajes;
+                }
+            }
+            catch (Exception ex)
+            {
+                return ex.Message;
+            }
+        }
+
+        private void CrearDocumento()
+        {
+            // Lógica para crear un nuevo documento
+            this.create(_documento);
+            // Guardar el documento pdf.
+            string folder = Path.Combine("docs", _documento.Id.ToString());
+            Utils.SaveFileToFolder(fileNamePDF, folder);
+        }
+
+        private void ActualizarDocumento()
+        {
+            // Lógica para actualizar un documento existente
+            this.update<Documento>(
+                c => c.Id == _documento.Id,
+                u =>
+                {
+                    u.IdTipoDocumento = _documento.IdTipoDocumento;
+                    u.Titulo = _documento.Titulo;
+                    u.RutaArchivo = _documento.RutaArchivo;
+                    u.Observaciones = _documento.Observaciones;
+                    u.IdAnoEscolar = _documento.IdAnoEscolar;
+                    u.IdNivel = _documento.IdNivel;
+                    u.IdGrado = _documento.IdGrado;
+                    u.IdSeccion = _documento.IdSeccion;
+                    u.IdTurno = _documento.IdTurno;
+                    u.Estado = _documento.Estado;
+                    return u;
+                });
+        }
+
         public string save()
         {
             try
@@ -93,7 +158,9 @@ namespace SDD2.services
                            && ((d.IdGrado <= idGrado && idGrado <= d.IdGradoFin) || idGrado == 0)
                            && ((d.IdSeccion <= idSeccion && idSeccion <=d.IdSeccionFin) || idSeccion == 0)
                            && (d.IdTurno == idTurno || idTurno == 0)
-                           select new ResultadoDocumentoDTO
+                           && d.Estado == "1"
+
+                            select new ResultadoDocumentoDTO
                            {
                             Id = d.Id,
                             Titulo = d.Titulo,
@@ -106,7 +173,25 @@ namespace SDD2.services
 
             return resultado.ToList();
         }
-     
+        public string EliminarDocumento(int documentoId)
+        {
+            try
+            {
+                var documento = ObtenerDocumentoPorId(documentoId);
+                if (documento == null)
+                {
+                    return "El documento no existe.";
+                }
+                documento.Estado = "0";
+                this.SaveChanges();
+
+                return "Documento eliminado exitosamente.";
+            }
+            catch (Exception ex)
+            {
+                return "Error al eliminar el documento: " + ex.Message;
+            }
+        }
         public string valid()
         {
             if (string.IsNullOrWhiteSpace(_documento.Titulo))       

@@ -47,5 +47,11 @@ namespace SDD2
             frmPdf frmPdf = new frmPdf(pdf);
             frmPdf.Show();
         }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            frmReporte frmReporte = new frmReporte();   
+            frmReporte.Show();
+        }
     }
 }

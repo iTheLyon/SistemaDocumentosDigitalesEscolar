@@ -100,6 +100,7 @@ namespace SDD2
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(218, 43);
             this.txtUsuario.TabIndex = 5;
+            this.txtUsuario.Text = "FAZ2024";
             // 
             // txtContrasenia
             // 
@@ -109,6 +110,7 @@ namespace SDD2
             this.txtContrasenia.PasswordChar = '*';
             this.txtContrasenia.Size = new System.Drawing.Size(218, 43);
             this.txtContrasenia.TabIndex = 6;
+            this.txtContrasenia.Text = "123";
             this.txtContrasenia.UseSystemPasswordChar = true;
             // 
             // label2

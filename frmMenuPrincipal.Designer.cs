@@ -38,10 +38,13 @@ namespace SDD2
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -118,6 +121,27 @@ namespace SDD2
             this.label7.Text = "Generar Reportes";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
+            // label8
+            // 
+            this.label8.Font = new System.Drawing.Font("Arial", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(140, 407);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(314, 54);
+            this.label8.TabIndex = 13;
+            this.label8.Text = "Registrar Tipo Documento";
+            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::SDD2.Properties.Resources.tipoDoc;
+            this.pictureBox5.Location = new System.Drawing.Point(24, 407);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(110, 103);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 12;
+            this.pictureBox5.TabStop = false;
+            this.pictureBox5.Click += new System.EventHandler(this.pictureBox5_Click);
+            // 
             // pictureBox4
             // 
             this.pictureBox4.Image = global::SDD2.Properties.Resources.reporte;
@@ -169,7 +193,9 @@ namespace SDD2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(924, 438);
+            this.ClientSize = new System.Drawing.Size(924, 533);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -183,6 +209,7 @@ namespace SDD2
             this.Controls.Add(this.pictureBox1);
             this.Name = "frmMenuPrincipal";
             this.Text = "Sistemas  de Documentos Digitales";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
@@ -205,5 +232,7 @@ namespace SDD2
         private Label label6;
         private Label label7;
         private PictureBox pictureBox4;
+        private PictureBox pictureBox5;
+        private Label label8;
     }
 }

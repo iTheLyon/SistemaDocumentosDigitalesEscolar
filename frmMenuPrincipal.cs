@@ -53,5 +53,11 @@ namespace SDD2
             frmReporte frmReporte = new frmReporte();   
             frmReporte.Show();
         }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            frmBusquedaTipoDocumento frmTipo = new frmBusquedaTipoDocumento();
+            frmTipo.Show();
+        }
     }
 }

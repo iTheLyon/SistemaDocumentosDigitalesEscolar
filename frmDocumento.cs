@@ -214,6 +214,11 @@ namespace SDD2
                 return;
             }
 
+            if (string.IsNullOrEmpty(this.filename))
+            {
+                MessageBox.Show(this, "Por favor, adjunte un documento digital.", "Registro de Documento", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
             Documento documento = new Documento
             {
                 Id = this.documentId ?? 0,

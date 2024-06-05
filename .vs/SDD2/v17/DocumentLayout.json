@@ -3,20 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|c:\\users\\ryzen 5\\music\\profesor2\\sistemadocumentosdigitalesescolar\\frmtipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmtipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmbusquedatipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmbusquedatipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmbusquedatipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmbusquedatipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmbusquedadocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmbusquedadocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmbusquedadocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmbusquedadocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmtipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmtipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\tipodocumentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:services\\tipodocumentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\documentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:services\\documentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\dtos\\resultadotipodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:dtos\\resultadotipodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\dtos\\resultadodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:dtos\\resultadodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:models\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:models\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:models\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|c:\\users\\ryzen 5\\music\\profesor2\\sistemadocumentosdigitalesescolar\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\img\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:img\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:models\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SDD2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -26,52 +110,20 @@
       "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|c:\\users\\ryzen 5\\music\\profesor2\\sistemadocumentosdigitalesescolar\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|c:\\users\\ryzen 5\\music\\profesor2\\sistemadocumentosdigitalesescolar\\logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|c:\\users\\ryzen 5\\music\\profesor2\\sistemadocumentosdigitalesescolar\\frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\mydataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:mydataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmbusquedadocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmbusquedadocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:models\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\anoescolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,32 +158,8 @@
       "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmreporte.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\utils\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:utils\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmpdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\dtos\\resultadodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:dtos\\resultadodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmbusquedadocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:frmbusquedadocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\documentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|solutionrelative:services\\documentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97630D17-525D-48F4-A6EA-65FAE0B537A2}|SDD2.csproj|C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\properties\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -177,11 +205,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Report1.rdlc [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\Report1.rdlc",
               "RelativeDocumentMoniker": "Report1.rdlc",
@@ -189,12 +217,273 @@
               "RelativeToolTip": "Report1.rdlc [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
               "WhenOpened": "2024-05-28T14:45:33.406Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "frmDocumento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmDocumento.cs",
+              "RelativeDocumentMoniker": "frmDocumento.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmDocumento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmDocumento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:09:53.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDocumento.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmDocumento.cs",
+              "RelativeDocumentMoniker": "frmDocumento.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmDocumento.cs",
+              "RelativeToolTip": "frmDocumento.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAjwKAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:26:40.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTipoDocumento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmTipoDocumento.cs",
+              "RelativeDocumentMoniker": "frmTipoDocumento.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmTipoDocumento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmTipoDocumento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:31:37.751Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBusquedaTipoDocumento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaTipoDocumento.cs",
+              "RelativeDocumentMoniker": "frmBusquedaTipoDocumento.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaTipoDocumento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmBusquedaTipoDocumento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:07:48.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmBusquedaTipoDocumento.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaTipoDocumento.cs",
+              "RelativeDocumentMoniker": "frmBusquedaTipoDocumento.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaTipoDocumento.cs",
+              "RelativeToolTip": "frmBusquedaTipoDocumento.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:39:29.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmBusquedaDocumento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaDocumento.cs",
+              "RelativeDocumentMoniker": "frmBusquedaDocumento.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaDocumento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmBusquedaDocumento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:48:34.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBusquedaDocumento.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaDocumento.cs",
+              "RelativeDocumentMoniker": "frmBusquedaDocumento.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaDocumento.cs",
+              "RelativeToolTip": "frmBusquedaDocumento.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAADgv9AAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:21:52.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmTipoDocumento.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmTipoDocumento.cs",
+              "RelativeDocumentMoniker": "frmTipoDocumento.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmTipoDocumento.cs",
+              "RelativeToolTip": "frmTipoDocumento.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAD4vx8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:44:44.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:22:21.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoDocumentoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\TipoDocumentoService.cs",
+              "RelativeDocumentMoniker": "services\\TipoDocumentoService.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\TipoDocumentoService.cs",
+              "RelativeToolTip": "services\\TipoDocumentoService.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAArwGgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:52:31.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocumentoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\DocumentoService.cs",
+              "RelativeDocumentMoniker": "services\\DocumentoService.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\DocumentoService.cs",
+              "RelativeToolTip": "services\\DocumentoService.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAMwEYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:26:48.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResultadoTipoDocumentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\dtos\\ResultadoTipoDocumentoDTO.cs",
+              "RelativeDocumentMoniker": "dtos\\ResultadoTipoDocumentoDTO.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\dtos\\ResultadoTipoDocumentoDTO.cs",
+              "RelativeToolTip": "dtos\\ResultadoTipoDocumentoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:11:34.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\DataBase.cs",
+              "RelativeDocumentMoniker": "models\\DataBase.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\DataBase.cs",
+              "RelativeToolTip": "models\\DataBase.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIA6wCIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:19:09.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResultadoDocumentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\dtos\\ResultadoDocumentoDTO.cs",
+              "RelativeDocumentMoniker": "dtos\\ResultadoDocumentoDTO.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\dtos\\ResultadoDocumentoDTO.cs",
+              "RelativeToolTip": "dtos\\ResultadoDocumentoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:17:14.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\Documento.cs",
+              "RelativeDocumentMoniker": "models\\Documento.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\Documento.cs",
+              "RelativeToolTip": "models\\Documento.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:11:48.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TipoDocumento.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\TipoDocumento.cs",
+              "RelativeDocumentMoniker": "models\\TipoDocumento.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\TipoDocumento.cs",
+              "RelativeToolTip": "models\\TipoDocumento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:57:20.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\UsuarioService.cs",
+              "RelativeToolTip": "services\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:13:22.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmMenuPrincipal.cs",
+              "RelativeToolTip": "frmMenuPrincipal.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAWwDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:55:37.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\utils\\Utils.cs",
+              "RelativeDocumentMoniker": "utils\\Utils.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\utils\\Utils.cs",
+              "RelativeToolTip": "utils\\Utils.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:17:16.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmReporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmReporte.cs",
+              "RelativeDocumentMoniker": "frmReporte.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmReporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmReporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:28:37.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmMenuPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmMenuPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "frmMenuPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmMenuPrincipal.Designer.cs",
+              "RelativeToolTip": "frmMenuPrincipal.Designer.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAMwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:11:26.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "logo.png - PNG [88x90, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\img\\logo.png",
+              "RelativeDocumentMoniker": "img\\logo.png",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\img\\logo.png - PNG [88x90, 32 bits, PNG]",
+              "RelativeToolTip": "img\\logo.png - PNG [88x90, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-31T15:15:39.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
@@ -206,74 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmMenuPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmMenuPrincipal.cs",
-              "RelativeDocumentMoniker": "frmMenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmMenuPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "frmMenuPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T19:22:21.814Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmReporte.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmReporte.cs",
-              "RelativeDocumentMoniker": "frmReporte.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmReporte.cs [Dise\u00F1o]",
-              "RelativeToolTip": "frmReporte.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T15:28:37.66Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmMenuPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmMenuPrincipal.cs",
-              "RelativeDocumentMoniker": "frmMenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmMenuPrincipal.cs",
-              "RelativeToolTip": "frmMenuPrincipal.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAMwDQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T14:55:37.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\packages.config",
-              "RelativeDocumentMoniker": "packages.config",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\packages.config",
-              "RelativeToolTip": "packages.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-27T15:42:24.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Documento.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\Documento.cs",
-              "RelativeDocumentMoniker": "models\\Documento.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\Documento.cs",
-              "RelativeToolTip": "models\\Documento.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAuwBkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:11:48.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 24,
               "Title": "Grado.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\Grado.cs",
               "RelativeDocumentMoniker": "models\\Grado.cs",
@@ -281,12 +503,23 @@
               "RelativeToolTip": "models\\Grado.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:51:42.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T14:51:42.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-27T15:42:24.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -299,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 29,
               "Title": "frmReporte.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmReporte.cs",
               "RelativeDocumentMoniker": "frmReporte.cs",
@@ -307,12 +540,11 @@
               "RelativeToolTip": "frmReporte.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAcwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T18:44:31.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T18:44:31.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 25,
               "Title": "SDD2",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\SDD2.csproj",
               "RelativeDocumentMoniker": "SDD2.csproj",
@@ -323,81 +555,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmDocumento.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmDocumento.cs",
-              "RelativeDocumentMoniker": "frmDocumento.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmDocumento.cs [Dise\u00F1o]",
-              "RelativeToolTip": "frmDocumento.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:09:53.761Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 30,
               "Title": "MyDataSet.xsd",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\MyDataSet.xsd",
               "RelativeDocumentMoniker": "MyDataSet.xsd",
               "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\MyDataSet.xsd",
               "RelativeToolTip": "MyDataSet.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2024-05-28T18:30:49.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T18:30:49.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frmDocumento.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmDocumento.cs",
-              "RelativeDocumentMoniker": "frmDocumento.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmDocumento.cs",
-              "RelativeToolTip": "frmDocumento.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAD4vyEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T09:26:40.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "logo.ico - Icon [88x90, 32 bits, BMP]",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\logo.ico",
               "RelativeDocumentMoniker": "logo.ico",
               "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\logo.ico - Icon [88x90, 32 bits, BMP]",
               "RelativeToolTip": "logo.ico - Icon [88x90, 32 bits, BMP]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2024-05-30T17:36:51.652Z",
-              "EditorCaption": " - Icon [88x90, 32 bits, BMP]"
+              "WhenOpened": "2024-05-30T17:36:51.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "frmBusquedaDocumento.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaDocumento.cs",
-              "RelativeDocumentMoniker": "frmBusquedaDocumento.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaDocumento.cs [Dise\u00F1o]",
-              "RelativeToolTip": "frmBusquedaDocumento.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:09:58.041Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DataBase.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\DataBase.cs",
-              "RelativeDocumentMoniker": "models\\DataBase.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\DataBase.cs",
-              "RelativeToolTip": "models\\DataBase.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAwwG8AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:19:09.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "AnoEscolar.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\AnoEscolar.cs",
               "RelativeDocumentMoniker": "models\\AnoEscolar.cs",
@@ -405,12 +585,11 @@
               "RelativeToolTip": "models\\AnoEscolar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:14:37.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T15:14:37.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "Nivel.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\Nivel.cs",
               "RelativeDocumentMoniker": "models\\Nivel.cs",
@@ -418,25 +597,11 @@
               "RelativeToolTip": "models\\Nivel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:51:08.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T14:51:08.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TipoDocumento.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\TipoDocumento.cs",
-              "RelativeDocumentMoniker": "models\\TipoDocumento.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\TipoDocumento.cs",
-              "RelativeToolTip": "models\\TipoDocumento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:57:20.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\Usuario.cs",
               "RelativeDocumentMoniker": "models\\Usuario.cs",
@@ -444,12 +609,11 @@
               "RelativeToolTip": "models\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:40:13.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T14:40:13.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 34,
               "Title": "Turno.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\Turno.cs",
               "RelativeDocumentMoniker": "models\\Turno.cs",
@@ -457,12 +621,11 @@
               "RelativeToolTip": "models\\Turno.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:56:49.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T14:56:49.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 35,
               "Title": "Seccion.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\models\\Seccion.cs",
               "RelativeDocumentMoniker": "models\\Seccion.cs",
@@ -470,12 +633,11 @@
               "RelativeToolTip": "models\\Seccion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:56:32.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T14:56:32.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -483,24 +645,22 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T01:06:15.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T01:06:15.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 38,
               "Title": "frmReporte.resx",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmReporte.resx",
               "RelativeDocumentMoniker": "frmReporte.resx",
               "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmReporte.resx",
               "RelativeToolTip": "frmReporte.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-05-29T02:09:29.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T02:09:29.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 37,
               "Title": "frmReporte.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmReporte.Designer.cs",
               "RelativeDocumentMoniker": "frmReporte.Designer.cs",
@@ -508,101 +668,22 @@
               "RelativeToolTip": "frmReporte.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T02:09:26.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T02:09:26.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 39,
               "Title": "frmPdf.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmPdf.cs",
               "RelativeDocumentMoniker": "frmPdf.cs",
               "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmPdf.cs [Dise\u00F1o]",
               "RelativeToolTip": "frmPdf.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:49:13.918Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-05-27T15:49:13.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Report1.rdlc [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\utils\\Report1.rdlc",
-              "RelativeDocumentMoniker": "utils\\Report1.rdlc",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\utils\\Report1.rdlc [Dise\u00F1o]",
-              "RelativeToolTip": "utils\\Report1.rdlc [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
-              "WhenOpened": "2024-05-28T18:54:25.292Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ResultadoDocumentoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\dtos\\ResultadoDocumentoDTO.cs",
-              "RelativeDocumentMoniker": "dtos\\ResultadoDocumentoDTO.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\dtos\\ResultadoDocumentoDTO.cs",
-              "RelativeToolTip": "dtos\\ResultadoDocumentoDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:17:14.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Utils.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\utils\\Utils.cs",
-              "RelativeDocumentMoniker": "utils\\Utils.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\utils\\Utils.cs",
-              "RelativeToolTip": "utils\\Utils.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T12:17:16.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\UsuarioService.cs",
-              "RelativeToolTip": "services\\UsuarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T00:13:22.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "frmBusquedaDocumento.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaDocumento.cs",
-              "RelativeDocumentMoniker": "frmBusquedaDocumento.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmBusquedaDocumento.cs",
-              "RelativeToolTip": "frmBusquedaDocumento.cs",
-              "ViewState": "AQIAAMIAAAAAAAAAAAAMwMUAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:21:52.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "DocumentoService.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\DocumentoService.cs",
-              "RelativeDocumentMoniker": "services\\DocumentoService.cs",
-              "ToolTip": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\services\\DocumentoService.cs",
-              "RelativeToolTip": "services\\DocumentoService.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAYwDgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:26:48.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "app.manifest",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\Properties\\app.manifest",
               "RelativeDocumentMoniker": "Properties\\app.manifest",
@@ -610,12 +691,11 @@
               "RelativeToolTip": "Properties\\app.manifest",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
-              "WhenOpened": "2024-05-27T19:00:35.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T19:00:35.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
@@ -623,12 +703,11 @@
               "RelativeToolTip": "Properties\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T18:46:15.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T18:46:15.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "SDD2.exe.config",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\bin\\Debug\\SDD2.exe.config",
               "RelativeDocumentMoniker": "bin\\Debug\\SDD2.exe.config",
@@ -636,12 +715,11 @@
               "RelativeToolTip": "bin\\Debug\\SDD2.exe.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-27T19:09:47.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T19:09:47.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 46,
               "Title": "SDD2.csproj.dtbcache.json",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\.vs\\SDD2.csproj.dtbcache.json",
               "RelativeDocumentMoniker": ".vs\\SDD2.csproj.dtbcache.json",
@@ -649,12 +727,11 @@
               "RelativeToolTip": ".vs\\SDD2.csproj.dtbcache.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-27T19:09:59.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T19:09:59.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
@@ -662,12 +739,11 @@
               "RelativeToolTip": "frmLogin.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:36:33.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T14:36:33.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 47,
               "Title": "sdd.iss",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\exe\\sdd.iss",
               "RelativeDocumentMoniker": "exe\\sdd.iss",
@@ -675,12 +751,11 @@
               "RelativeToolTip": "exe\\sdd.iss",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-27T19:05:02.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T19:05:02.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 48,
               "Title": ".NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\obj\\Release\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
               "RelativeDocumentMoniker": "obj\\Release\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
@@ -688,12 +763,11 @@
               "RelativeToolTip": "obj\\Release\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T18:19:58.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T18:19:58.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "app.manifest",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\Properties\\app.manifest",
               "RelativeDocumentMoniker": "Properties\\app.manifest",
@@ -701,12 +775,11 @@
               "RelativeToolTip": "Properties\\app.manifest",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
-              "WhenOpened": "2024-05-27T18:46:08.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T18:46:08.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "frmPdf.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen 5\\Music\\profesor2\\SistemaDocumentosDigitalesEscolar\\frmPdf.cs",
               "RelativeDocumentMoniker": "frmPdf.cs",
@@ -714,8 +787,7 @@
               "RelativeToolTip": "frmPdf.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:50:06.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T15:50:06.85Z"
             }
           ]
         }

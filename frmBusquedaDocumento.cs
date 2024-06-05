@@ -179,6 +179,54 @@ namespace SDD2
         {
             pdfViewer2.Renderer.RotateRight();
         }
-       
+
+        private void btnEditar_Click(object sender, EventArgs e)
+        {
+            if (dgvDocumentos.CurrentRow == null)
+            {
+                MessageBox.Show("Seleccione un documento para editar!!!");
+                return;
+            }
+
+            // Retrieve the selected document details
+            var selectedRow = dgvDocumentos.CurrentRow;
+            var documentId = (int)selectedRow.Cells["Id"].Value;
+            var documentPath = selectedRow.Cells["RutaArchivo"].Value.ToString();
+
+            frmDocumento frmDocumento = new frmDocumento(documentId);
+            frmDocumento.FormClosed += (s, args) => btnBuscar_Click(sender, e);
+            frmDocumento.ShowDialog();
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            if (dgvDocumentos.CurrentRow == null)
+            {
+                MessageBox.Show("Seleccione un documento para eliminar!!!", "Eliminar Documento", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            // Obtener el ID del documento seleccionado
+            var selectedRow = dgvDocumentos.CurrentRow;
+            var documentId = (int)selectedRow.Cells["Id"].Value;
+
+            // Confirmar eliminación
+            var confirmResult = MessageBox.Show("¿Está seguro de que desea eliminar este documento?", "Confirmar Eliminación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (confirmResult == DialogResult.Yes)
+            {
+                DocumentoService documentoService = new DocumentoService();
+                string mensaje = documentoService.EliminarDocumento(documentId);
+
+                if (mensaje == "Documento eliminado exitosamente.")
+                {
+                    MessageBox.Show(mensaje, "Eliminar Documento", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    btnBuscar_Click(sender, e); // Actualizar la lista de documentos después de la eliminación
+                }
+                else
+                {
+                    MessageBox.Show(mensaje, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+        }
     }
 }
